@@ -1,4 +1,4 @@
-#Mon Sep 26 13:47:51 CST 2022
+#Wed Sep 28 15:25:49 CST 2022
 base.0=C\:\\Users\\perry\\StudioProjects\\myfirstapp_0919\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
